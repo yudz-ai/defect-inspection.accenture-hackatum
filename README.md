@@ -3,6 +3,7 @@
 <p>
    <img width="850" src="./misc/DagoAI.jpg"></a>
 </p>
+<p>
 To update the database detection, simply run
 ```bash
 $ git clone https://github.com/yudz-ai/defect-inspection.accenture-hackatum
