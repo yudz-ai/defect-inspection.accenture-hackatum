@@ -1,4 +1,4 @@
-# defect-inspection.accenture-hackatum
+# Dago-AInspection - Defect Inspection System
 <div align="center">
 <p>
    <img width="850" src="./misc/DagoAI.jpg"></a>
